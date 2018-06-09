@@ -1,0 +1,24 @@
+{
+  "name": "hapdong",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "aws-sdk": "^2.247.1",
+    "cookie-parser": "~1.4.3",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "forAsync": "^0.1.1",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "moment": "^2.22.1",
+    "morgan": "~1.9.0",
+    "multer": "^1.3.0",
+    "multer-s3": "^2.7.0",
+    "mysql": "^2.15.0"
+  }
+}
